@@ -7,7 +7,6 @@
     <meta name="author" content="Brandon Dillard">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="src/style.css">
-    <title> Space Technologies & Innovations </title>
   </head>
 <body>
   <h1>Space Technologies & Innovations</h1>
